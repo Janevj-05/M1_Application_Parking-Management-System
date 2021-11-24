@@ -3,7 +3,7 @@
 Parking Management System using C
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# BADGES:
+# BADGES
 
 
 <!--- | Unit Testing |
@@ -30,7 +30,7 @@ Parking Management System using C
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# FOLDER STRUCTURE:
+# FOLDER STRUCTURE
 | Folder | Description |
 |--------|-------------|
 | `1_Requirements`| Detailed documentation of requirements and research |
@@ -46,7 +46,7 @@ Parking Management System using C
 2. Payment option can also be facilitated using the same RFID tag which reduces your waiting time and helps you to forget long queues as digital payments are done within fraction of second.
 3. Routing the vehicle entering the garage to the available parking space can be facilitated using parking sensor to intimate signals to the vehicle owners via lcd display.
 
-# Learning Resources:
+# Learning Resources
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 [Markdown Basics](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
