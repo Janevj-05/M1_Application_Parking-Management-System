@@ -18,4 +18,5 @@ Parking Management System using C
 | `2_Architecture`| Structural and Behavioural diagrams|
 | `3_Implementation`| source codes and test cases |
 | `4_TestPlanAndOutput`| Expected and Actual Outputs  |
-| `5_Output_Images`| Images of output execution |
+| `5_Report`| Report of the project |
+| `6_ImagesAndVideos`| Image and video of output execution |
