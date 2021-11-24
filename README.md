@@ -39,3 +39,22 @@ Parking Management System using C
 | `4_TestPlanAndOutput`| Expected and Actual Outputs  |
 | `5_Report`| Report of the project |
 | `6_ImagesAndVideos`| Image and video of output execution |
+
+
+# Challenges faced and how to overcome it
+1. In this mini project we need to enter the vehicle details manually to display the vacancy instead of writing and keeping log book. We can overcome this manual work by using sensors to sense the vehicle occurence and RFID Tag to scan the vehicle details.
+2. Payment option can also be facilitated using the same RFID tag which reduces your waiting time and helps you to forget long queues as digital payments are done within fraction of second.
+3. Routing the vehicle entering the garage to the available parking space can be facilitated using parking sensor to intimate signals to the vehicle owners via lcd display.
+
+# Learning Resources:
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+[Markdown Basics](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+[Git Inspector](https://github.com/ejwa/gitinspector)
+
+[Github Workflow](https://lab.github.com/githubtraining/first-day-on-github)
+
+[Multifile](https://softwareengineering.stackexchange.com/questions/401415/what-are-the-benefits-of-multi-file-programming)
+
+[Makefile](https://youtu.be/O5mG8H36V44)
