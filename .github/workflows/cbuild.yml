@@ -15,6 +15,4 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: build
-      run: gcc parking.c -o parking.exe
-    - name: Run
-      run: .\parking.exe
+     
