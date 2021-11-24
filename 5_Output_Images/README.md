@@ -1,1 +1,1 @@
-## Screenshots of output
+## Image and GIF of output execution
