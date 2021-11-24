@@ -1,4 +1,4 @@
-name: C/C++ CI UnitTesting
+name: Unit Testing - Unity
 
 on:
   push:
@@ -9,7 +9,7 @@ on:
 jobs:
   test:
 
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
