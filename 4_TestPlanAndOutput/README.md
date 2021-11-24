@@ -1,5 +1,5 @@
-# TEST PLAN:
-### High Level Test plan:
+# TEST PLAN
+### High Level Test plan
 | ID    | Description                             | Expected O/P | Actual O/P | Type of Test |
 |-------|-----------------------------------------| ------------ | ---------- | ------------ |
 | H_01  |obtain vehicle details                   |PASSED        |SUCCESS     | Requirement  |
@@ -7,7 +7,7 @@
 | H_03  |Update Parking status in app             |PASSED        |SUCCESS     | Boundary     |
 
 
-### Low Level Test Plan:
+### Low Level Test Plan
 | ID    | Description           | Expected O/P | Actual O/P | Type of Test | 
 |-------|-----------------------| ------------ | -----------| ------------ |
 | L_01  |Open the app           | PASSED       |SUCESS      | Requirement  |
