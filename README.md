@@ -6,9 +6,9 @@ Parking Management System using C
 # BADGES:
 
 
-| Unit Testing |
-|--------|
-[![C/C++ CI UnitTesting](https://github.com/Janevj-05/M1_Application_Parking-Management-System/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/Janevj-05/M1_Application_Parking-Management-System/actions/workflows/unit_testing.yml)
+<!--- | Unit Testing |
+|--------| 
+[![C/C++ CI UnitTesting](https://github.com/Janevj-05/M1_Application_Parking-Management-System/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/Janevj-05/M1_Application_Parking-Management-System/actions/workflows/unit_testing.yml) !-->
 
 | Cpp Check |
 |--------|
