@@ -1,4 +1,5 @@
 # Requirements
+
 ## Introduction
 This project is about Parking Management System. This system provides vacant parking slots up to date in the vicinity and reduces the traffic issues due to illegal parking along the roads.
 
@@ -18,15 +19,15 @@ REFERENCE
 
 ## Features
 
-- Logging details about the vehicle.
-- View the availabale space in the garage. 
-- Display arrival and departure of the vehicle.
+  - Logging details about the vehicle.
+  - View the availabale space in the garage. 
+  - Display arrival and departure of the vehicle.
 
 ## Features to be added in future
 
-- Integrate GPS routing system with this mobile application to guide the users to vacant position.
-- Ability to reserve their space in the garage from mobile application.
-- Integrate RFID tag operation with the mobile application for seamless payment facility and update the vehicle occupation within blink of an eye. (fully automated parking system).
+  - Integrate GPS routing system with this mobile application to guide the users to vacant position.
+  - Ability to reserve their space in the garage from mobile application.
+  - Integrate RFID tag operation with the mobile application for seamless payment facility and update the vehicle occupation within blink of an eye. (fully automated parking system).
 
 ## SWOT Analysis
 ![SWOT Analysis](https://user-images.githubusercontent.com/59198753/142820086-951e7b7b-8fb1-4132-b224-a5388751bb9f.jpg)
