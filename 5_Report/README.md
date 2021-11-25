@@ -2,7 +2,7 @@
 
 *Parking Management is something our society is longing for especially in highly populated cities. This Project helps you to view the optimized space available in the garage and also provides records of vehicles that have arrived and departed it also helps to monitor business.*
 
-# 1_Requirements
+## 1_Requirements
 
 ## Introduction
 This project is about Parking Management System. This system provides vacant parking slots up to date in the vicinity and reduces the traffic issues due to illegal parking along the roads.
@@ -23,15 +23,15 @@ REFERENCE
 
 ## Features
 
-- Logging details about the vehicle.
-- View the availabale space in the garage. 
-- Display arrival and departure of the vehicle.
+-   Logging details about the vehicle.
+-   View the availabale space in the garage. 
+-   Display arrival and departure of the vehicle.
 
 ## Features to be added in future
 
-- Integrate GPS routing system with this mobile application to guide the users to vacant position.
-- Ability to reserve their space in the garage from mobile application.
-- Integrate RFID tag operation with the mobile application for seamless payment facility and update the vehicle occupation within blink of an eye. (fully automated parking    system).
+-   Integrate GPS routing system with this mobile application to guide the users to vacant position.
+-   Ability to reserve their space in the garage from mobile application.
+-   Integrate RFID tag operation with the mobile application for seamless payment facility and update the vehicle occupation within blink of an eye. (fully automated parking    system).
 
 ## SWOT Analysis
 ![SWOT Analysis](https://user-images.githubusercontent.com/59198753/142820086-951e7b7b-8fb1-4132-b224-a5388751bb9f.jpg)
@@ -55,7 +55,7 @@ REFERENCE
 | LLR02 |View the parking status|   Implemented       |
 | LLR03 |Connect to GPS         |   Future            |
 
-# 2_Design/Architecture
+## 2_Design/Architecture
 
 * Behavioural Diagram low level and high level
 ![Activity Diagram of Parking Management System](https://user-images.githubusercontent.com/59198753/143300781-e0331be1-8326-47f5-ad75-70f57efd7d1b.png)
@@ -65,7 +65,7 @@ REFERENCE
 * Structural Diagram low level and high level
 ![Package Diagram of Parking Management System (1)](https://user-images.githubusercontent.com/59198753/143303224-58eeb946-632a-4ec9-befe-e47d97129760.png)
 
-# 3_Implementation
+## 3_Implementation
 
 | Folder | Description                                    |              
 |------- |------------------------------------------------|
@@ -74,9 +74,9 @@ REFERENCE
 | test   | All source code and data for testing purposes  |
 | build  | build output                                   |
 
-# 4_TestPlanAndOutput
+## 4_TestPlanAndOutput
 
-# TEST PLAN:
+## TEST PLAN:
 ### High Level Test plan
 | ID    | Description                             | Expected O/P | Actual O/P | Type of Test |
 |-------|-----------------------------------------| ------------ | ---------- | ------------ |
@@ -91,7 +91,7 @@ REFERENCE
 | L_02  |View the parking status| PASSED       |SUCESS      | Scenario     |
 | L_03  |Reserve your space     | PASSED       |SUCCESS     | Boundary     |
 
-# 6_ImagesAndVideos
+## 6_ImagesAndVideos
 
 In this directory the output execution is captured in the form of GIF and Images
 
