@@ -2,9 +2,7 @@
 
 Parking Management System using C
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# BADGES
-
+## BADGES
 
 <!--- | Unit Testing |
 |--------| 
@@ -27,10 +25,7 @@ Parking Management System using C
 |--------|
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4a0a7dba5d37442887c0f819fb71ced6)](https://www.codacy.com/gh/Janevj-05/M1_Application_Parking-Management-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Janevj-05/M1_Application_Parking-Management-System&amp;utm_campaign=Badge_Grade) 
 
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# FOLDER STRUCTURE
+## FOLDER STRUCTURE
 | Folder | Description |
 |--------|-------------|
 | `1_Requirements`| Detailed documentation of requirements and research |
@@ -40,13 +35,12 @@ Parking Management System using C
 | `5_Report`| Report of the project |
 | `6_ImagesAndVideos`| Image and video of output execution |
 
+## Challenges faced and how to overcome it
+1.   In this mini project we need to enter the vehicle details manually to display the vacancy instead of writing and keeping log book. We can overcome this manual work by using sensors to sense the vehicle occurence and RFID Tag to scan the vehicle details.
+2.   Payment option can also be facilitated using the same RFID tag which reduces your waiting time and helps you to forget long queues as digital payments are done within fraction of second.
+3.   Routing the vehicle entering the garage to the available parking space can be facilitated using parking sensor to intimate signals to the vehicle owners via lcd display.
 
-# Challenges faced and how to overcome it
-1. In this mini project we need to enter the vehicle details manually to display the vacancy instead of writing and keeping log book. We can overcome this manual work by using sensors to sense the vehicle occurence and RFID Tag to scan the vehicle details.
-2. Payment option can also be facilitated using the same RFID tag which reduces your waiting time and helps you to forget long queues as digital payments are done within fraction of second.
-3. Routing the vehicle entering the garage to the available parking space can be facilitated using parking sensor to intimate signals to the vehicle owners via lcd display.
-
-# Learning Resources
+## Learning Resources
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 [Markdown Basics](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
